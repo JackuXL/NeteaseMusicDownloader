@@ -5,4 +5,6 @@
 
 ## 灵感来源：<del>造轮子</del>
 
-[Material_Design_Music_Downloader](
+[Material_Design_Music_Downloader](https://github.com/ShiSheng233/Material_Design_Music_Downloader)
+
+![screenshot](https://wearbbs-wearmusic-1253496522.cos.ap-beijing.myqcloud.com/downloader.png)
